@@ -4,5 +4,9 @@ from django.shortcuts import render
 
 # /products -> index
 # Uniform Resource Locator (Address)
+
 def index(request):
     return HttpResponse("Hello World")
+
+def new(request):
+    return HttpResponse("New Products")
