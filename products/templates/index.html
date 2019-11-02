@@ -1,15 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
+
+{% block content %}
     <h1>Products</h1>
-    <ul>
+    <div class="row">
         {% for product in products %}
-            <li>{{ product.name }} ({{ product.price }})</li>
+
+            <div class="col">
+                <div class="card" style="width: 18rem;">
+                    <img src="{{ product.image_url }}" class="card-img-top" alt="{{ product.name }}">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ product.name }}</h5>
+                        <p class="card-text">${{ product.price }}</p>
+                        <a href="#" class="btn btn-primary">Add To Card</a>
+                    </div>
+                </div>
+            </div>
+
         {% endfor %}
-    </ul>
-</body>
-</html>
+    </div>
+{% endblock %}
+
+{#    <ul>#}
+{#        {% for product in products %}#}
+{#            <li>{{ product.name }} (৳{{ product.price }})</li>#}
+{#            <li>{{ product.name }} (${{ product.price }})</li>#}
+{#        {% endfor %}#}
+{#    </ul>#}
