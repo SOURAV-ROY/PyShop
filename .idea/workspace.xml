@@ -53,6 +53,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -111,7 +112,9 @@
       <workItem from="1572596875915" duration="2419000" />
       <workItem from="1572625745750" duration="5933000" />
       <workItem from="1572675720940" duration="10890000" />
-      <workItem from="1572714504073" duration="1061000" />
+      <workItem from="1572714504073" duration="2587000" />
+      <workItem from="1572803033564" duration="540000" />
+      <workItem from="1572803883724" duration="247000" />
     </task>
     <servers />
   </component>
