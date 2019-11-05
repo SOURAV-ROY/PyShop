@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="005291b9-bc81-4596-ad5c-8df89496f461" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyShop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyShop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,12 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Django default" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -39,6 +46,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="H:\PYTHON\PyCharm\PyShop\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1SymCv1X5F7k3gS9yikPmvwBLs3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,13 +61,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -114,7 +129,14 @@
       <workItem from="1572675720940" duration="10890000" />
       <workItem from="1572714504073" duration="2587000" />
       <workItem from="1572803033564" duration="540000" />
-      <workItem from="1572803883724" duration="247000" />
+      <workItem from="1572803883724" duration="691000" />
+      <workItem from="1572806374406" duration="2008000" />
+      <workItem from="1572846184245" duration="895000" />
+      <workItem from="1572885292480" duration="264000" />
+      <workItem from="1572885802322" duration="63000" />
+      <workItem from="1572885892197" duration="2069000" />
+      <workItem from="1572929267086" duration="1960000" />
+      <workItem from="1572934896857" duration="2349000" />
     </task>
     <servers />
   </component>

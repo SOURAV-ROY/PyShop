@@ -7,6 +7,7 @@ from .models import Product
 # Uniform Resource Locator (Address)
 
 def index(request):
+    #  Catch All Data From DB*********
     products = Product.objects.all()
     # return HttpResponse("Hello World")
     return render(request, 'index.html',
