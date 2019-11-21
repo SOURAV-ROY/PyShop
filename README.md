@@ -1,4 +1,10 @@
 # PyShop
+
+<h1 align="center">DEMO</h1>
+   <p align="center">
+     <img src="https://github.com/SOURAV-ROY/PyShop/blob/master/products/img/home.png" width="870">
+    </p>
+
 ### Django Install***
     $ pip install django==2.1
 #### Start Project
