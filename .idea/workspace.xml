@@ -4,8 +4,6 @@
     <list default="true" id="005291b9-bc81-4596-ad5c-8df89496f461" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyShop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +134,10 @@
       <workItem from="1572885802322" duration="63000" />
       <workItem from="1572885892197" duration="2069000" />
       <workItem from="1572929267086" duration="1960000" />
-      <workItem from="1572934896857" duration="2349000" />
+      <workItem from="1572934896857" duration="4557000" />
+      <workItem from="1573025178013" duration="1014000" />
+      <workItem from="1573235013726" duration="338000" />
+      <workItem from="1573277003631" duration="1417000" />
     </task>
     <servers />
   </component>
